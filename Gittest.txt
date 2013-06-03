@@ -1,1 +1,2 @@
 #Gebruik dit document om te testen of GitHub bij jou ook werkt!
+#Dit is de tweede lijn die ik heb toegevoegd.
