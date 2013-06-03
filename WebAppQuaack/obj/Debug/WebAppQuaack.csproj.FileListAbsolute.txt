@@ -1,0 +1,5 @@
+c:\Visual Studio 2012\Projects\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.dll
+c:\Visual Studio 2012\Projects\WebAppQuaack\WebAppQuaack\bin\WebAppQuaack.pdb
+c:\Visual Studio 2012\Projects\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.dll
+c:\Visual Studio 2012\Projects\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.pdb
+c:\Visual Studio 2012\Projects\WebAppQuaack\WebAppQuaack\obj\Debug\WebAppQuaack.csprojResolveAssemblyReference.cache
